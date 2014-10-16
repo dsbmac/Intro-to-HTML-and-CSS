@@ -1,0 +1,15 @@
+* {
+  border: 1px solid red !important;
+}
+
+body {
+  color: #747704;
+}
+
+.text-h1 {
+  font-family: 'Rock Salt', cursive;
+}
+
+.text-thin {
+  font-family: 'Lato', sans-serif;
+}
